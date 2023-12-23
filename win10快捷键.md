@@ -35,3 +35,4 @@
    Ctrl + W 关闭当前页面
    Ctrl+Tab: 切换当前页面
    Ctrl+Shift+Tab: 切换当前页面
+11. add
